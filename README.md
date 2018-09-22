@@ -1,5 +1,6 @@
 <h2><p align="center"> Screenshoot Simple Blogs </h2>
-<br>
+<br
+
 ![PIC](https://github.com/Achmadsetiawann/Blogs_Project/blob/master/public/SC_BLOGS.png)
 
 <br>
