@@ -1,7 +1,7 @@
 <h2><p align="center"> Screenshoot Simple Blogs </h2>
 <br
 
-![PIC](https://github.com/Achmadsetiawann/Blogs_Project/blob/master/public/SC_BLOGS.png)
+<p align="center">![PIC](https://github.com/Achmadsetiawann/Blogs_Project/blob/master/public/SC_BLOGS.png)
 
 <br>
 <p>Simple Application build on React.js Simple Blogs.<br>
